@@ -1,0 +1,10 @@
+
+(aim_sandbox) C:\Users\Administrator\AIM\AIM-playground-tester>python
+Python 3.10.11 | packaged by Anaconda, Inc. | (main, May 16 2023, 00:55:32) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import tensorflow
+>>> from tensorflow import keras
+>>> from keras.models import Sequential
+>>> from keras.layers import Dense, Flatten
+>>> from keras.optimizers import Adam
+>>>

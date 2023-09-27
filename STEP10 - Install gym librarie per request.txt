@@ -1,0 +1,22 @@
+
+(aim_sandbox) C:\Users\Administrator\AIM\AIM-playground-tester>pip install gym
+Collecting gym
+  Downloading gym-0.26.2.tar.gz (721 kB)
+     ---------------------------------------- 721.7/721.7 kB 3.8 MB/s eta 0:00:00
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Preparing metadata (pyproject.toml) ... done
+Requirement already satisfied: numpy>=1.18.0 in c:\programdata\anaconda3\envs\aim_sandbox\lib\site-packages (from gym) (1.23.5)
+Collecting cloudpickle>=1.2.0 (from gym)
+  Downloading cloudpickle-2.2.1-py3-none-any.whl (25 kB)
+Collecting gym-notices>=0.0.4 (from gym)
+  Downloading gym_notices-0.0.8-py3-none-any.whl (3.0 kB)
+Building wheels for collected packages: gym
+  Building wheel for gym (pyproject.toml) ... done
+  Created wheel for gym: filename=gym-0.26.2-py3-none-any.whl size=827646 sha256=5f80584d6c21d2238b0142219ccbf9c009394104d6a6380c2503185a38bcb5fe
+  Stored in directory: c:\users\administrator\appdata\local\pip\cache\wheels\b9\22\6d\3e7b32d98451b4cd9d12417052affbeeeea012955d437da1da
+Successfully built gym
+Installing collected packages: gym-notices, cloudpickle, gym
+Successfully installed cloudpickle-2.2.1 gym-0.26.2 gym-notices-0.0.8
+
+(aim_sandbox) C:\Users\Administrator\AIM\AIM-playground-tester>

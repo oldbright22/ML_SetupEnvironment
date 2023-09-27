@@ -1,0 +1,9 @@
+
+(aim_sandbox) C:\Users\Administrator\AIM\AIM-playground-tester>pip install pyglet
+Collecting pyglet
+  Downloading pyglet-2.0.8-py3-none-any.whl (853 kB)
+     ---------------------------------------- 853.1/853.1 kB 6.0 MB/s eta 0:00:00
+Installing collected packages: pyglet
+Successfully installed pyglet-2.0.8
+
+(aim_sandbox) C:\Users\Administrator\AIM\AIM-playground-tester>

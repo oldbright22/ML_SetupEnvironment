@@ -1,0 +1,30 @@
+
+(aim_sandbox) C:\Users\Administrator\AIM\AIM-playground-tester>pip install matplotlib
+Collecting matplotlib
+  Downloading matplotlib-3.7.1-cp310-cp310-win_amd64.whl (7.6 MB)
+     ---------------------------------------- 7.6/7.6 MB 37.5 MB/s eta 0:00:00
+Collecting contourpy>=1.0.1 (from matplotlib)
+  Downloading contourpy-1.1.0-cp310-cp310-win_amd64.whl (470 kB)
+     ---------------------------------------- 470.4/470.4 kB 28.8 MB/s eta 0:00:00
+Collecting cycler>=0.10 (from matplotlib)
+  Downloading cycler-0.11.0-py3-none-any.whl (6.4 kB)
+Collecting fonttools>=4.22.0 (from matplotlib)
+  Downloading fonttools-4.40.0-cp310-cp310-win_amd64.whl (1.9 MB)
+     ---------------------------------------- 1.9/1.9 MB 60.5 MB/s eta 0:00:00
+Collecting kiwisolver>=1.0.1 (from matplotlib)
+  Downloading kiwisolver-1.4.4-cp310-cp310-win_amd64.whl (55 kB)
+     ---------------------------------------- 55.3/55.3 kB 2.8 MB/s eta 0:00:00
+Requirement already satisfied: numpy>=1.20 in c:\programdata\anaconda3\envs\aim_sandbox\lib\site-packages (from matplotlib) (1.23.5)
+Requirement already satisfied: packaging>=20.0 in c:\programdata\anaconda3\envs\aim_sandbox\lib\site-packages (from matplotlib) (23.0)
+Collecting pillow>=6.2.0 (from matplotlib)
+  Downloading Pillow-9.5.0-cp310-cp310-win_amd64.whl (2.5 MB)
+     ---------------------------------------- 2.5/2.5 MB 80.7 MB/s eta 0:00:00
+Collecting pyparsing>=2.3.1 (from matplotlib)
+  Downloading pyparsing-3.1.0-py3-none-any.whl (102 kB)
+     ---------------------------------------- 102.6/102.6 kB ? eta 0:00:00
+Requirement already satisfied: python-dateutil>=2.7 in c:\programdata\anaconda3\envs\aim_sandbox\lib\site-packages (from matplotlib) (2.8.2)
+Requirement already satisfied: six>=1.5 in c:\programdata\anaconda3\envs\aim_sandbox\lib\site-packages (from python-dateutil>=2.7->matplotlib) (1.16.0)
+Installing collected packages: pyparsing, pillow, kiwisolver, fonttools, cycler, contourpy, matplotlib
+Successfully installed contourpy-1.1.0 cycler-0.11.0 fonttools-4.40.0 kiwisolver-1.4.4 matplotlib-3.7.1 pillow-9.5.0 pyparsing-3.1.0
+
+(aim_sandbox) C:\Users\Administrator\AIM\AIM-playground-tester>
